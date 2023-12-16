@@ -1,0 +1,5 @@
+# Billing job
+
+spring.datasource.url: jdbc:postgresql://localhost:5432/billingjob
+spring.datasource.username: postgres
+spring.datasource.password: admin123
